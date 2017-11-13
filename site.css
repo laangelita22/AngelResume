@@ -1,0 +1,153 @@
+
+/* ---------------------------------------------------------------------------------- NEW START */
+body{
+    background-image:url("https://www.transparenttextures.com/patterns/tileable-wood-colored.png");    
+}
+.titlePage{
+    background-color:rgba(0, 0, 0, 0.842);
+    width:100%;
+    padding-left:0px;
+    padding-right:0px;
+    color:#757373;
+}
+.firstPage{
+    height: 750px;
+    padding-top: 175px;
+    color:#757373;    
+}
+.me {
+    border-radius: 20%;
+  }
+
+
+
+/* ---------------------------------------CLEAR------------------------------------------- ABOUT ME */
+.aboutMe{
+    width:100%;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    color:#000000;        
+}
+
+
+
+/* --2 PART--------------------------------------BLACK---EXPERIENCE---------------------------------CLEAR---EDUCATION  */
+.topic {
+    margin: 25px;
+    padding: 0px 55px;
+}
+.topic-time {
+    color: 	#983b2e;
+    font-size: 15px;
+}
+.topic-title {
+    color: #000000;
+    font-weight: 500;
+    font-size: 20px;
+}
+.topic-description {
+    color: #6f8142;
+}
+/* -1/2----------------------EXPERIENCE----------------------  */
+.experience{
+    background-color:rgba(0, 0, 0, 0.7);
+    width:100%;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    color:#000000;        
+}
+/* -2/2----------------------EDUCATION----------------------  */
+.education{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color:#000000;        
+}
+
+
+
+
+/* -------------------------------------BLACK--------------------------------------------- SKILLS */
+.skills{
+    background-color:rgba(0, 0, 0, 0.7);
+    width:100%;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    color:#000000;        
+}
+ul {
+    list-style-type:none;
+}
+
+
+/* ----------------------------------CLEAR------------------------------------------------ PROJECTS */
+.projects{
+    width:100%;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    color:#000000;       
+}
+
+
+
+/* -----------------------------------BLACK----------------------------------------------- FOOTER */
+.footer{
+    height: 100px;
+    background:rgba(0, 0, 0, 0.7);
+    padding-top: 30px;
+    color:#757373;    
+}
+.footer-content a{
+    color:#000000;        
+    padding-left: 30px;
+    /* font-weight: bold;     */
+}
+.footer a:hover{
+    color:#f0f0ff;
+}
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------- Extra from first Attempt */
+/* DropDown */
+/* .dropbtn {
+    background-color: lightcoral;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+} */
+
+/* .dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+} */
+
+/* .dropdown-content a:hover {background-color: #D39898;} */
+
+/* .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+} */
+
+/* .dropdown:hover .dropdown-content {
+    display: block;
+} */
+
+/* .dropdown:hover .dropbtn {
+    background-color: #983b2e;
+} */
+/* End of DropDown */
